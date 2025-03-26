@@ -1,35 +1,35 @@
-<h2 align="left">Hi 👋! My name is Graziele Rodrigues and I'm a Data Analytics, from Brazil </h2>
+# ✨ Hey, eu sou a Grazi! 💖🚀  
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF69B4&size=22&center=true&vCenter=true&width=500&lines=Analista+de+Dados+📊;Criadora+de+Conteúdo+👩‍💻;Embaixadora+da+PrograMaria+🌸;Sempre+aprendendo+algo+novo!+🚀)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graziiele&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graziiele&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+🌸 **Sobre mim:**  
+💡 Analista de Dados com experiência em SQL, Power BI, Looker Studio e mais!  
+📢 Criadora de conteúdo tech, ajudando futuros profissionais da área de dados.  
+💻 Apaixonada por tecnologia, inovação e um bom dashboard bem feito.  
+💖 Embaixadora da **PrograMaria** e incentivadora da diversidade em tecnologia.  
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🚀 Skills & Ferramentas
 
-###
+**📊 Data & BI:**  
+![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=amazon-dynamodb&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+**🛠️ Outras Techs:**  
+![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  
 
-###
+---
 
+## 🌍 Conecte-se comigo!
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/grazi.tech/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziiele/)  
 
+---
+
+💖 *"O futuro é tech, e ele é nosso!"* ✨  
